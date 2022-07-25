@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Emdadul Haque
 - 👀 I’m interested in ...AI and Robotics Research
+- I am a Software Engineer doing work in Professional Projects
 - 🌱 I’m currently learning ... Data Engineerng
 - 💞️ I’m looking to collaborate on ...AI and ML Design and Applications
 - 📫 How to reach me ...emdad8@gmail.com
