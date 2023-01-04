@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Emdadul Haque
-- 👀 I’m interested in ...AI and Robotics Research
+- 👀 I’m passionate about Software Engineering and Data
+- 👀 My Research Interest areas are AI, ML and Deep Learning 
 - I am a Software Engineer doing work in Professional Projects
-- 🌱 I’m currently learning ... Data Engineerng
-- 💞️ I’m looking to collaborate on ...AI and ML Design and Applications
-- 📫 How to reach me ...emdad8@gmail.com
+- 🌱 I’m currently learning ... Big Data Engineerng
+- 💞️ I’m looking to collaborate on ...AI and ML Design and Applications. I am looking to collaborate in desktop business Applications like CRM, HRM and SupplyChain Applications.
+- 📫 How to reach me send me an e-mail...emdad8@gmail.com, 
 
 <!---
 emdad8/emdad8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
