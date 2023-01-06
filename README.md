@@ -1,4 +1,6 @@
-- 👋 ####Hi, I’m Emdadul Haque
+####### Hi
+
+- 👋 #### Hi, I’m Emdadul Haque
 - 👀 I’m passionate about Software Engineering and Data
 - 👀 My Research Interest areas are AI, ML and Deep Learning 
 - I am a Software Engineer doing work in Professional Projects
