@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Emdadul Haque
 I specialize in Software Design and Development, experienced as a full-stack Software Developer. Passionate about Software Engineering, AI, Data 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: Software Engineering, ASP.NET,C#.NET, Java, SQL, Oracle ADF,PL/SQL, OOP,ML,AI, Big Data 
 
 - 🔭 I’m currently working on Angular, Node JS 
 - 👯 I’m looking to collaborate on Angular, ML, AI Projects  
-- 💬 Ask me about .NET, SQL, C#, OOP,ML,AI, Software Engineering 
+- 💬 Ask me about .NET, SQL, C#, OOP,ML,AI, Software Engineering , ETL, Hadoop
 - 📫 How to reach me: emdad8@gmail.com 
 
 
