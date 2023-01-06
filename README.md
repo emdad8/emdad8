@@ -1,12 +1,22 @@
-- 👋 Welcome to my profile, I’m Emdadul Haque
-- 👀 I’m passionate about Software Engineering and Data
-- 👀 My Research Interest areas are AI, ML and Deep Learning 
-- I am a Software Engineer doing work in Professional Projects
-- 🌱 I’m currently learning ... Big Data Engineerng
-- 💞️ I’m looking to collaborate on ...AI and ML Design and Applications. I am looking to collaborate in desktop business Applications like CRM, HRM and SupplyChain Applications and Databases.
-- 📫 How to reach me send me an e-mail...emdad8@gmail.com, 
-- Will be uploading my repos, demos, DB-Design soon....... 
-<!---
-emdad8/emdad8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there 👋, my name is Emdadul Haque
+I specialize in Software Design and Development, experienced as a full-stack Software Developer. Passionate about Software Engineering, AI, Data 
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on Angular, Node JS 
+- 👯 I’m looking to collaborate on Angular, ML, AI Projects  
+- 💬 Ask me about .NET, SQL, C#, OOP,ML,AI, Software Engineering 
+- 📫 How to reach me: emdad8@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emdad8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/emdad_08)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emdad8)  
+
+![GitHub metrics](https://metrics.lecoq.io/emdad8)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=emdad8)  
+
+![Profile views](https://gpvc.arturio.dev/emdad8)  
