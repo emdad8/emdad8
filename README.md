@@ -40,10 +40,9 @@ Language and Tools
 Connect
 </br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emdad8)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emdad8)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/emdad_08)<code><code><img src="https://icons8.com/icon/wjmIz86BWbyf/linkedin-circled "></code>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/emdad_08)<code>
-
+        
 </br>
 <code><img height=50 src="https://github.com/emdad8/logos/blob/main/mcts-logo.png"></code>
  
