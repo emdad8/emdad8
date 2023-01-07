@@ -49,6 +49,7 @@ Connect
 
 ![GitHub metrics](https://metrics.lecoq.io/emdad8)  
 
+[![Emdad's GitHub stats](https://github-readme-stats.vercel.app/api?username=emdad8)](https://github.com/emdad8/github-readme-stats)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=emdad8)  
 
 ![Profile views](https://gpvc.arturio.dev/emdad8)  
