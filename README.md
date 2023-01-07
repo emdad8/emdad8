@@ -30,10 +30,11 @@ Language and Tools
 </br>
 </br>
 **Software Engineering**
+</br>
 <code><img height= 30 src="https://github.com/emdad8/logos/blob/main/1200px-OOP.svg.png"></code>
-<code><img height= 30 src="https://github.com/emdad8/logos/blob/main/SOA.png"></code>
+<code><img height= 40 src="https://github.com/emdad8/logos/blob/main/SOA.png"></code>
 <code><img height= 30 src="https://github.com/emdad8/logos/blob/main/solid%20principles.jpeg"></code>
-<code><img height= 30 src="https://github.com/emdad8/logos/blob/main/mvvm.png"></code>
+<code><img height= 35 src="https://github.com/emdad8/logos/blob/main/mvvm.png"></code>
 
 </br>
 Connect
