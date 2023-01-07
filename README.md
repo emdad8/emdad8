@@ -30,7 +30,9 @@ Language and Tools
 
 </br>
 </br>
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emdad8/)
+
+![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)(https://www.linkedin.com/in/emdad8/)
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emdad8)  
 
