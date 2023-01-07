@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Emdadul Haque
-I am Passionate about Software Engineering, AI, Data 
+I am Passionate about Software Engineering,Data,AI 
 
 Skills:  Software Engineering | ASP.NET,C#.NET | Full-Stack development
         | Angular/WebDevelopment| Java, SQL, Oracle ADF,PL/SQL| WPF, WnForms, desktopApps | OOP | Machine Learning, Deep Learning, Big Data 
