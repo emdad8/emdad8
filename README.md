@@ -27,6 +27,7 @@ Language and Tools
 </br>
 
 <code><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /></code>
+</br>
 Connect
 </br>
 
