@@ -29,6 +29,11 @@ Language and Tools
 <code><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></code><code><img src="https://github.com/emdad8/logos/blob/main/icons8-hadoop-distributed-file-system.svg"></code>
 </br>
 </br>
+**Software Engineering**
+
+
+
+</br>
 Connect
 </br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emdad8)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/emdad_08)<code>
