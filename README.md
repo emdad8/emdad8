@@ -27,6 +27,7 @@ Language and Tools
 </br>
 
 <code><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /></code>
+</br>
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emdad8/)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emdad8)  
