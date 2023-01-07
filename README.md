@@ -25,7 +25,7 @@ Language and Tools
 <code><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></code>
 </br>
 
-<code><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /></code><code><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></code>
+<code><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /></code><code><img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></code><code><img height=50 src="https://github.com/emdad8/logos/blob/main/icons8-microsoft-sql-server.svg" /></code>
 </br>
 </br>
 Connect
