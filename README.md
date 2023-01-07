@@ -31,7 +31,7 @@ Language and Tools
 </br>
 Connect
 </br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emdad8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/emdad_08)  ![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin(https://www.linkedin.com/in/emdad8/))
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emdad8)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/emdad_08)   ![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin(https://www.linkedin.com/in/emdad8/))
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emdad8)  
 
