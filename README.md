@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Emdadul Haque
-I am Passionate about Software Engineering,Data,AI 
+I am Passionate about Software Engineering, Data, AI 
 
 Skills:  Software Engineering | ASP.NET,C#.NET | Full-Stack development
         | Angular/WebDevelopment| Java, SQL, Oracle ADF,PL/SQL| WPF, WnForms, desktopApps | OOP | Machine Learning, Deep Learning, Big Data 
@@ -32,7 +32,8 @@ Language and Tools
 Connect
 </br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emdad8)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/emdad_08)<code>
-
+</br>
+ <code><img height=30 src="https://github.com/emdad8/logos/blob/main/mcp.png"></code>      
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emdad8)  
 
 ![GitHub metrics](https://metrics.lecoq.io/emdad8)  
