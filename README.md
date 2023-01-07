@@ -26,6 +26,9 @@ Language and Tools
 </br>
 
 <code><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /></code>
+<code>
+<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+</code>
 </br>
 </br>
 Connect
