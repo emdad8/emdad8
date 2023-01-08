@@ -4,6 +4,9 @@ I am Passionate about Software Engineering, Data, AI
 Skills:  Software Engineering | ASP.NET,C#.NET | Full-Stack development
         | Angular/WebDevelopment| Java, SQL, Oracle ADF,PL/SQL| WPF(XAML),WinForms, desktopApps | OOP | Machine Learning, Deep Learning, Big Data 
 
+Domains: 
+- Business Automation, Industrial Automation, Insurance, SupplyChain, Healthcare, Finance 
+
 - 🔭 I’m currently working on Angular, Node JS 
 - 👯 I’m looking to collaborate on Angular, ML, AI Projects  
 - 💬 Ask me about .NET, SQL, C#, OOP,ML,AI, Software Engineering , ETL, Hadoop
