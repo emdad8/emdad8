@@ -2,7 +2,7 @@
 I am Passionate about Software Engineering, Data, AI 
 
 **TechSkills**:  
-Software Engineering | ASP.NET,C#.NET | Full-Stack development|Angular/WebDevelopment| Java, SQL, Oracle ADF,PL/SQL,NoSql | WPF(XAML),WinForms, desktopApps | OOP | Machine Learning, Deep Learning |OLAP,ETL, Big Data 
+Software Engineering | ASP.NET,C#.NET | Full-Stack development|Angular/WebDevelopment| Java, SQL, Oracle ADF,PL/SQL,NoSql | WPF(XAML),WinForms, desktopApps | OOP | Machine Learning, Deep Learning | OLAP,ETL, Big Data 
 
 Domains: 
 - Business Automation, Industrial Automation, Insurance, SupplyChain, Healthcare, Finance 
