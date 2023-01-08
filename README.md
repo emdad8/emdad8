@@ -12,8 +12,7 @@ Domains:
 - 💬 Ask me about .NET, SQL, C#, OOP,ML,AI, Software Engineering , ETL, Hadoop
 - 📫 Reach me: <a href='mailto:emdad8@gmail.com'>Here</a></br>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a></br>
-<code><img height=50 src="https://github.com/emdad8/logos/blob/main/mcts-logo.png"></code>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a><code><img height=50 src="https://github.com/emdad8/logos/blob/main/mcts-logo.png"></code>
 <code><img height=50 src="https://github.com/emdad8/logos/blob/main/Microsoft-certified-professional.jpg"></code>
 
 Language and Tools
