@@ -39,7 +39,7 @@ Language and Tools
 <code><img height= 35 src="https://github.com/emdad8/logos/blob/main/mvvm.png"></code>
 
 Connect
-</br></br>
+</br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/emdad8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/emdad_08) 
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/emdad8/)
      
