@@ -45,7 +45,8 @@ Connect
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/emdad8/)
 </br>
  
-[<img src='https://github.com/emdad8/logos/blob/main/datacamplogo.png' alt='aatacamp' height='40'>](https://www.datacamp.com/profile/emdad8)
+[<img src='https://github.com/emdad8/logos/blob/main/datacamplogo.png' alt='datacamp' height='40'>](https://www.datacamp.com/profile/emdad8)
+[<img src='https://github.com/emdad8/logos/blob/main/kaggle.png' alt='kaggle' height='40'>](https://www.kaggle.com/alesxdelpiero/account)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emdad8)  
 
 ![GitHub metrics](https://metrics.lecoq.io/emdad8)  
