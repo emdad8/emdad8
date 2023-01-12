@@ -5,7 +5,7 @@ I am Passionate about Software Engineering, Data, AI
 Software Engineering | ASP.NET,C#.NET | Full-Stack development|Angular/WebDevelopment| Java, SQL, Oracle ADF,PL/SQL,NoSql | WPF(XAML),WinForms, desktopApps | OOP | Machine Learning, Deep Learning | OLAP,ETL, Big Data | Distributed Systems
 
 Domains: 
-- Business Automation, Industrial Automation, Insurance, SupplyChain, Healthcare, Finance 
+- Business Automation, Industrial Automation, Insurance, SupplyChain, Healthcare, Financial Modelling 
 
 - 🔭 I’m currently working on Angular, Node JS 
 - 👯 I’m looking to collaborate on Angular, ML, AI Projects  
